@@ -1,0 +1,3 @@
+2019-07-02 09:44:42,059 [INFO][main][DruidDataSource.java:785] {dataSource-1} inited
+2019-07-02 09:44:43,201 [INFO][main][Xnio.java:104] XNIO version 3.3.8.Final
+2019-07-02 09:44:43,208 [INFO][main][NioXnio.java:55] XNIO NIO Implementation Version 3.3.8.Final
